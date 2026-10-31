@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/banner-animated.svg" width="100%" alt="Shekhar - Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/banner-animated.svg" width="100%" alt="Shekhar - Full Stack Developer" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## ✨ About Me
 
@@ -35,7 +35,7 @@ I'm a **Full Stack Developer from Noida, India** with 1+ year of experience ship
 </td>
 <td width="40%" valign="top" align="center">
 
-
+```js
 const shekhar = {
   role: "Full Stack Developer",
   frontend: ["React", "Next.js"],
@@ -43,13 +43,13 @@ const shekhar = {
   location: "Noida, India",
   openToWork: true,
 };
-
+```
 
 </td>
 </tr>
 </table>
 
-<img src="/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech Stack
 
@@ -63,7 +63,7 @@ const shekhar = {
 
 </div>
 
-<img src="/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -116,28 +116,21 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 </tr>
 </table>
 
-<img src="/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=iamshekhararya&hide_border=true&background=0d1117&ring=FF7A1A&fire=FF7A1A&currStreakLabel=FF9F43&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=FF9F43&dates=8b949e" height="150" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshekhararya&bg_color=0d1117&color=FF9F43&line=FF7A1A&point=FFFFFF&area=true&area_color=FF7A1A&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=iamshekhararya&hide_border=true&background=0d1117&ring=FF7A1A&fire=FF7A1A&currStreakLabel=FF9F43&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=FF9F43&dates=8b949e" height="150" alt="GitHub streak" />
 
 <br/><br/>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshekhararya&bg_color=0d1117&color=FF9F43&line=FF7A1A&point=FFFFFF&area=true&area_color=FF7A1A&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
-
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## 📫 Let's Connect
 
