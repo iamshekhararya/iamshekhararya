@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1a1208"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF7A1A"/>
+      <stop offset="1" stop-color="#FFB347"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#FF7A1A"/>
+      <stop offset="0.5" stop-color="#FFD08A"/>
+      <stop offset="1" stop-color="#FF7A1A"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#FF7A1A" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FF7A1A" stroke-opacity="0.08" stroke-width="1"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="6s" repeatCount="indefinite"/>
+    </pattern>
+
+    <clipPath id="c1"><rect x="80" y="244" height="32" width="0">
+      <animate attributeName="width" values="0;440;440;0;0" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="1.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="80" y="244" height="32" width="0">
+      <animate attributeName="width" values="0;320;320;0;0" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="4.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="80" y="244" height="32" width="0">
+      <animate attributeName="width" values="0;370;370;0;0" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="7.6s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- big code symbol, slow pulse -->
+  <text x="930" y="210" font-family="Consolas, Menlo, monospace" font-size="190" font-weight="700" fill="#FF7A1A" fill-opacity="0.13">&lt;/&gt;
+    <animate attributeName="fill-opacity" values="0.08;0.2;0.08" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="60" y="60" font-family="Consolas, Menlo, monospace" font-size="16" fill="#FF9F43" fill-opacity="0.7">const developer = {</text>
+
+  <!-- name slides in -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="-40 0" to="0 0" dur="0.8s" begin="0s" fill="freeze"/>
+    <text x="80" y="165" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="url(#orange)" letter-spacing="4">SHEKHAR</text>
+  </g>
+
+  <!-- underline grows -->
+  <rect x="82" y="185" width="0" height="5" rx="2.5" fill="#FF7A1A">
+    <animate attributeName="width" from="0" to="120" dur="0.7s" begin="0.7s" fill="freeze"/>
+  </rect>
+
+  <!-- subtitle fades in -->
+  <text x="80" y="232" opacity="0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#F0F6FC">Full Stack Developer
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1s" fill="freeze"/>
+  </text>
+
+  <!-- typing lines -->
+  <g font-family="Consolas, Menlo, monospace" font-size="20" fill="#FF9F43">
+    <text x="80" y="266" clip-path="url(#c1)">React.js  •  Next.js  •  Node.js  •  MySQL</text>
+    <text x="80" y="266" clip-path="url(#c2)">50+ REST APIs  •  JWT  •  RBAC</text>
+    <text x="80" y="266" clip-path="url(#c3)">Building fast, secure web apps</text>
+  </g>
+  <!-- cursors -->
+  <rect y="248" width="3" height="22" fill="#FFB347" x="80">
+    <animate attributeName="x" values="80;520;520;80;80" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect y="248" width="3" height="22" fill="#FFB347" x="80">
+    <animate attributeName="x" values="80;400;400;80;80" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect y="248" width="3" height="22" fill="#FFB347" x="80">
+    <animate attributeName="x" values="80;450;450;80;80" keyTimes="0;0.2;0.31;0.333;1" dur="9s" begin="7.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- floating tech chips -->
+  <g font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3s" repeatCount="indefinite"/>
+      <rect x="860" y="52" width="110" height="34" rx="17" fill="none" stroke="#FF7A1A" stroke-width="2"/>
+      <text x="915" y="74" text-anchor="middle" fill="#FF9F43">React</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      <rect x="985" y="52" width="110" height="34" rx="17" fill="none" stroke="#FF7A1A" stroke-width="2"/>
+      <text x="1040" y="74" text-anchor="middle" fill="#FF9F43">Next.js</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <rect x="1000" y="98" width="130" height="34" rx="17" fill="#FF7A1A"/>
+      <text x="1065" y="120" text-anchor="middle" fill="#0d1117">TypeScript</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+      <rect x="870" y="98" width="115" height="34" rx="17" fill="none" stroke="#FF7A1A" stroke-width="2"/>
+      <text x="927" y="120" text-anchor="middle" fill="#FF9F43">Node.js</text>
+    </g>
+  </g>
+
+  <!-- flowing bottom bar -->
+  <rect x="0" y="292" width="1200" height="8" fill="url(#bar)"/>
+</svg>
