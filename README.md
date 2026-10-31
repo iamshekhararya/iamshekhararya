@@ -137,7 +137,7 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 </div>
 
-<img src="/divider.svg" width="100%" alt="" />
+
 
 ## 📫 Let's Connect
 
