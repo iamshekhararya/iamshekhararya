@@ -126,7 +126,7 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshekhararya&bg_color=0d1117&color=FF9F43&line=FF7A1A&point=FFFFFF&area=true&area_color=FF7A1A&hide_border=true" width="100%" alt="Contribution activity graph" />
+
 
 </div>
 
