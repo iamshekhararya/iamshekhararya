@@ -1,64 +1,155 @@
 <div align="center">
 
+<img src="assets/banner-animated.svg" width="100%" alt="Shekhar - Full Stack Developer" />
 
+<br/>
 
-# Hi, I'm Shekhar 👋
-### Full Stack Developer | React.js | Next.js | Node.js
+<a href="https://shekhararya.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7A1A?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shekhararya90"><img src="https://img.shields.io/badge/LinkedIn-FF7A1A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shekhara699@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A1A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=iamshekhararya&label=Profile+Views&color=FF7A1A&style=for-the-badge" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shekhararya.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://shekhararya.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shekhararya90-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhararya90)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF9F43&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Shekhar+%F0%9F%91%8B;I+build+fast%2C+secure+web+apps;50%2B+REST+APIs+%7C+JWT+%7C+RBAC;Open+to+full-stack+opportunities" alt="Typing SVG" />
 
 </div>
 
-## 👨‍💻 About Me
-Full Stack Developer based in Noida, India, with 1+ year of hands-on experience building production-grade web applications using React.js, Next.js, TypeScript, Node.js and MySQL.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-- 🔌 Designed and shipped **50+ REST APIs** with JWT authentication and role-based access control (RBAC)
-- ⚡ Optimized MySQL queries on **10,000+ records**, improving API response times by **30%**
-- 🔐 Skilled in scalable database design, secure authentication workflows and responsive UI development
-- 💼 Currently working at **Digimarq Technology Pvt. Ltd.** (Dec 2025 – Present)
-- 🎓 BCA, SIMT Kashipur (Kumaun University) · Java Full Stack Certification, Uncodemy
+## ✨ About Me
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Frontend**
+I'm a **Full Stack Developer from Noida, India** with 1+ year of experience shipping production-grade web apps.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🔌 Built **50+ REST APIs** with JWT auth & role-based access control
+- ⚡ Cut API response time by **30%** on **10,000+ record** datasets
+- 🧱 Scalable schema design, indexing & stored procedures
+- 💼 Working at **Digimarq Technology Pvt. Ltd.**
+- 🎓 BCA · Java Full Stack Certified (Uncodemy)
+- 🎮 Music · Cricket · Video Games
 
-**Backend & Database**
+</td>
+<td width="40%" valign="top" align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+```js
+const shekhar = {
+  role: "Full Stack Developer",
+  frontend: ["React", "Next.js"],
+  backend: ["Node", "MySQL"],
+  location: "Noida, India",
+  openToWork: true,
+};
+```
 
-**Tools & Deployment**
+</td>
+</tr>
+</table>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" alt="frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,java&perline=4" alt="backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode&perline=6" alt="tools" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
-- **[HCRM – Human Capital Resource Management System](https://hcrm.digimarqtechnology.com)**: Full-stack HR app with RBAC, JWT auth, face authentication and location tracking for attendance. *React.js, TypeScript, Node.js, Express.js, MySQL*
-- **Project Management Platform**: Project creation, milestone tracking, dynamic dashboards with filtering, search and pagination, and 50+ secured REST APIs. *React.js, Next.js, TypeScript, MySQL*
-- **[Real Estate Management System](https://aadhunikestates.in)**: Property listing site with Admin Panel, App Router, and slug & ID-based dynamic pages. *Next.js, TypeScript, Node.js, Express.js, MySQL*
-- **Doctor & Healthcare Websites** ([Dr. Vibha Singh](https://drvibhasinghgynaecologist.com) · [Dr. Meenu Singh](https://drmeenusinghindia.com)): Responsive sites with WhatsApp appointment forms and a time-slot booking system that blocks past slots. *React.js*
-- **Law Firm Websites** ([Nyay Sakti](https://nyaysakti.com) · [SKS Law Group](https://skslawgroupsandassociates.com)): Responsive sites with consultation forms, WhatsApp inquiries and reusable components. *React.js*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/shekhararya90) · [Portfolio](https://shekhararya.netlify.app) · [GitHub](https://github.com/iamshekhararya) · [shekhara699@gmail.com](mailto:shekhara699@gmail.com)
+### 🏢 [HCRM](https://hcrm.digimarqtechnology.com)
+Human Capital Resource Management System with **RBAC**, **JWT auth**, **face authentication** and **location-based attendance**.
+
+`React` `TypeScript` `Node.js` `Express` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Project Management Platform
+Project creation, **milestone tracking**, dynamic dashboards with filters, search & pagination, backed by 50+ secured APIs.
+
+`React` `Next.js` `TypeScript` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [Real Estate Management System](https://aadhunikestates.in)
+Property listing platform with **Admin Panel**, App Router, and slug & ID-based dynamic pages.
+
+`Next.js` `TypeScript` `Node.js` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Doctor & Healthcare Websites
+[Dr. Vibha Singh](https://drvibhasinghgynaecologist.com) · [Dr. Meenu Singh](https://drmeenusinghindia.com)  
+WhatsApp appointment forms and a **time-slot booking** system that blocks past slots.
+
+`React.js` `Responsive UI`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚖️ Law Firm Websites
+[Nyay Sakti](https://nyaysakti.com) · [SKS Law Group & Associates](https://skslawgroupsandassociates.com)  
+Dynamic routing, consultation forms, WhatsApp inquiries and reusable components across client sites. `React.js`
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=iamshekhararya&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshekhararya&layout=compact&theme=dark)
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshekhararya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF7A1A&icon_color=FF9F43&text_color=F0F6FC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshekhararya&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF7A1A&text_color=F0F6FC" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=iamshekhararya&hide_border=true&background=0d1117&ring=FF7A1A&fire=FF7A1A&currStreakLabel=FF9F43&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=FF9F43&dates=8b949e" height="150" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshekhararya&bg_color=0d1117&color=FF9F43&line=FF7A1A&point=FFFFFF&area=true&area_color=FF7A1A&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<!-- Contribution snake (needs .github/workflows/snake.yml, see notes) -->
+<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/output/github-snake-orange.svg" width="100%" alt="contribution snake" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to full-stack opportunities and freelance projects.**
+
+[shekhara699@gmail.com](mailto:shekhara699@gmail.com) · +91 90122 65355
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF7A1A&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
