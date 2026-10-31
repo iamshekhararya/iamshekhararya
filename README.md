@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Shekhar&backgroundColor=b6e3f4" alt="Shekhar avatar" width="150" height="150" style="border-radius:50%;" />
 
 # Hi, I'm Shekhar 👋
 ### Full Stack Developer | React.js | Next.js | Node.js
