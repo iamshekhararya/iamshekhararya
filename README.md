@@ -133,8 +133,7 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 <br/><br/>
 
-<!-- Contribution snake (needs .github/workflows/snake.yml, see notes) -->
-<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/output/github-snake-orange.svg" width="100%" alt="contribution snake" />
+
 
 </div>
 
