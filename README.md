@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-animated.svg" width="100%" alt="Shekhar - Full Stack Developer" />
+<img src="/banner-animated.svg" width="100%" alt="Shekhar - Full Stack Developer" />
 
 <br/>
 
