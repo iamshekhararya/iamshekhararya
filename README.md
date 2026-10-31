@@ -139,6 +139,6 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 [shekhara699@gmail.com](mailto:shekhara699@gmail.com) · +91 90122 65355
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF7A1A&height=120&section=footer" width="100%" alt="footer" />
+
 
 </div>
