@@ -122,8 +122,6 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshekhararya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF7A1A&icon_color=FF9F43&text_color=F0F6FC" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshekhararya&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF7A1A&text_color=F0F6FC" />
 
 <br/>
 
