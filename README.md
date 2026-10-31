@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="/divider.svg" width="100%" alt="" />
 
 ## ✨ About Me
 
@@ -35,7 +35,7 @@ I'm a **Full Stack Developer from Noida, India** with 1+ year of experience ship
 </td>
 <td width="40%" valign="top" align="center">
 
-```js
+
 const shekhar = {
   role: "Full Stack Developer",
   frontend: ["React", "Next.js"],
@@ -43,13 +43,13 @@ const shekhar = {
   location: "Noida, India",
   openToWork: true,
 };
-```
+
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="/divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech Stack
 
@@ -63,7 +63,7 @@ const shekhar = {
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -116,7 +116,7 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -140,7 +140,7 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="/divider.svg" width="100%" alt="" />
 
 ## 📫 Let's Connect
 
