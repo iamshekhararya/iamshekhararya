@@ -130,7 +130,6 @@ Dynamic routing, consultation forms, WhatsApp inquiries and reusable components 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/iamshekhararya/iamshekhararya/main/divider.svg" width="100%" alt="" />
 
 ## 📫 Let's Connect
 
